@@ -11,7 +11,7 @@ const CardDeal = () => (
          in few easy steps
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        drdrtfbngcfbnkjghgh gvhghljjbbhvvhj
+        We bring the world to you in few easy steps 
       </p>
       <Button styles='mt-10'/>
     </div>

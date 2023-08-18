@@ -8,7 +8,7 @@ const CTA = () => (
       <div className='flex-1 flex flex-col'>
        <h2 className={styles.heading2}>Try our service now </h2>
        <p className={`${styles.paragraph} max-w-[470px] mt-5` }>
-        buhuijljiouiohijihiifffffffffffffffffffffffffffffffffff
+         Get your card with your trusted bank. fidelity is our watchword
        </p>
       </div>
       

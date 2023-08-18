@@ -16,7 +16,7 @@ const Billing = () => (
           Easily control your <br className="sm:block  hidden"/>billing and invoicing.
         </h2>
         <p  className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          huhgyuvbnikjmvtybjklnlmikb tvybjvyuiopm
+          We render reliable services with swift payment 
         </p>
 
         <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
